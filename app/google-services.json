@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "269198937519",
+    "firebase_url": "https://pc3android-2c93e.firebaseio.com",
+    "project_id": "pc3android-2c93e",
+    "storage_bucket": "pc3android-2c93e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269198937519:android:2f0297daab363c2e",
+        "android_client_info": {
+          "package_name": "com.frikicorp.appprofesor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269198937519-tf46mp76s7mb4lgks0i9icmt7jaj55vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoeuuBlP20hyIRCjxz3UdnSrktq1PCvtc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
